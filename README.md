@@ -15,10 +15,10 @@ Este projeto realiza a análise e previsão de preços utilizando um conjunto de
 :small_blue_diamond:  [Autor](#autor)
 
 ## Estrutura do projeto 
-- |-- desafio_indicium.py: código de execução de ETL dos dados além das análises;
-- |-- LH_CD_Gabriel Vinícius de Figueiredo.pdf: relatório de análise exploratória de dados e respostas referentes ao desafio;
-- |-- requirements.txt: requisitos para execução do projeto;
-- |-- teste_indicium_precificacao.csv: conjunto de dados sobre hospedagens;
+- `desafio_indicium.py`: código de execução de ETL dos dados além das análises;
+- `LH_CD_Gabriel Vinícius de Figueiredo.pdf`: relatório de análise exploratória de dados e respostas referentes ao desafio;
+- `requirements.txt`: requisitos para execução do projeto;
+- `teste_indicium_precificacao.csv`: conjunto de dados sobre hospedagens;
 
 ## Requisitos
 
