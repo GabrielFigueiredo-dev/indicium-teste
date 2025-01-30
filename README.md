@@ -10,7 +10,7 @@ Este projeto realiza a análise e previsão de preços utilizando um conjunto de
 :small_blue_diamond:  [Requisitos](#requisitos)
 :small_blue_diamond:  [Instalação](#instalação)
 :small_blue_diamond:  [Como usar](#como-usar-arrow_forward)
-:small_blue_diamond:  [Exercício Técnico ](#exercícios-técnicos-pencil)
+:small_blue_diamond:  [Exercício Técnico](#exercícios-técnicos-pencil)
 :small_blue_diamond:  [Tecnologias](#tecnologias-books)
 :small_blue_diamond:  [Autor](#autor)
 
@@ -83,21 +83,19 @@ Durante a execução do código inúmeras imagens de análise serão mostradas n
 O exercício também conta com:
   1. Construção e Avaliação dos Modelos:
      - Regressão Linear:
-       
-      ```sh
-        lin_model = LinearRegression()
-        lin_model.fit(X_train, y_train)
-      ```
+       ```sh
+          lin_model = LinearRegression()
+          lin_model.fit(X_train, y_train)
+       ```
      - Random Forest:
        ```sh
-         rf_model = RandomForestRegressor(random_state=42)
-         rf_model.fit(X_train, y_train)
+          rf_model = RandomForestRegressor(random_state=42)
+          rf_model.fit(X_train, y_train)
        ```
      - Gradient Boosting:
-      ```sh
+       ```sh
           gb_model = GradientBoostingRegressor(random_state=42)
           gb_model.fit(X_train, y_train)
-  
         ```
   2. Geração de Gráficos e WordCloud:
 
