@@ -10,7 +10,7 @@ Este projeto realiza a análise e previsão de preços utilizando um conjunto de
 :small_blue_diamond:  [Requisitos](#requisitos)
 :small_blue_diamond:  [Instalação](#instalação)
 :small_blue_diamond:  [Como usar](#como-usar-arrow_forward)
-:small_blue_diamond:  [Exercício Técnico](#exercícios-técnicos-pencil)
+:small_blue_diamond:  [Exercício Técnico](#exercício-técnico-pencil)
 :small_blue_diamond:  [Tecnologias](#tecnologias-books)
 :small_blue_diamond:  [Autor](#autor)
 
