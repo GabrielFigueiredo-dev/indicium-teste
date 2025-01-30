@@ -1,6 +1,6 @@
 # Projeto de Precificação com Machine Learning
 
-Repositório com o código da Prova Técnica do Programa LIGHTHOUSE da Indicium
+Repositório com o código da Prova Técnica do Programa LIGHTHOUSE da Indicium.
 
 Este projeto realiza a análise e previsão de preços utilizando um conjunto de dados sobre hospedagens.
 
@@ -15,10 +15,10 @@ Este projeto realiza a análise e previsão de preços utilizando um conjunto de
 :small_blue_diamond:  [Autor](#autor)
 
 ## Estrutura do projeto 
- |-- desafio_indicium.py: código de execução de ETL dos dados além das análises;
- |-- LH_CD_Gabriel Vinícius de Figueiredo.pdf: relatório de análise exploratória de dados e respostas referentes ao desafio;
- |-- requirements.txt: requisitos para execução do projeto;
- |-- teste_indicium_precificacao.csv: conjunto de dados sobre hospedagens;
+- |-- desafio_indicium.py: código de execução de ETL dos dados além das análises;
+- |-- LH_CD_Gabriel Vinícius de Figueiredo.pdf: relatório de análise exploratória de dados e respostas referentes ao desafio;
+- |-- requirements.txt: requisitos para execução do projeto;
+- |-- teste_indicium_precificacao.csv: conjunto de dados sobre hospedagens;
 
 ## Requisitos
 
@@ -48,11 +48,11 @@ Certifique-se de ter instalado os seguintes pacotes Python, mas não se preocupe
 ## Instalação
 
     ```sh
-    # Clone o repositório:
-    git clone https://github.com/gab-figueiredo/indicium-teste.git
-    
-    # Entre no diretório do repositório:
-    cd indicium-teste/
+     # Clone o repositório:
+     git clone https://github.com/gab-figueiredo/indicium-teste.git
+     
+     # Entre no diretório do repositório:
+     cd indicium-teste/
     
     ```
 
@@ -90,9 +90,9 @@ O exercício também conta com:
       ```
      - Random Forest:
        ```sh
-          rf_model = RandomForestRegressor(random_state=42)
-          rf_model.fit(X_train, y_train)
-        ```
+         rf_model = RandomForestRegressor(random_state=42)
+         rf_model.fit(X_train, y_train)
+       ```
      - Gradient Boosting:
       ```sh
           gb_model = GradientBoostingRegressor(random_state=42)
