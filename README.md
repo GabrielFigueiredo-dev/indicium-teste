@@ -127,6 +127,7 @@ O exercício também conta com:
         print(f"Preço sugerido: ${price_pred[0]:.2f}")
       
       ```
+ Ao final da execução, o modelo desenvolvido será salvo no arquivo `melhor_modelo_precificacao.pkl`;
   
 
 ## Tecnologias :books:
